@@ -1,6 +1,6 @@
 {
   "_note": "Single source for personal data and SEO. Edit this file, then run: node scripts/build.mjs",
-  "siteUrl": "https://example.com",
+  "siteUrl": "https://juan-about.vercel.app",
   "name": "Juan Francis Manongdo",
   "shortName": "Juan Francis",
   "initials": "JM",
